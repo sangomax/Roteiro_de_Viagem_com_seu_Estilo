@@ -21,11 +21,11 @@ Então que tal se alguem se alguem planeja-se um roteiro para você, e melhor, u
     <b>* Para informar mais de uma cidade é somente separa-las pela letra "e".*</b>
 
 #### Exemplo de funcionamento
-- Informações obrigatorias
-
+- Informações obrigatorias</br>
+ ![exemplo de preenchimento](https://github.com/sangomax/Roteiro_de_Viagem_com_seu_Estilo/blob/main/exemplo_preenchimento.png)
   
-- Retorno
-
+- Retorno</br>
+ ![exemplo de retorno](https://github.com/sangomax/Roteiro_de_Viagem_com_seu_Estilo/blob/main/exemplo_retorno.png)
 
 #### Linguagens e libs utilizadas :books:
 - [Python](https://docs.python.org/3/)
